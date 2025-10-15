@@ -1,0 +1,4 @@
+# Let's write a rule to exclude the following files
+
+/cache/*
+*.рус
